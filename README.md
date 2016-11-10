@@ -14,7 +14,7 @@ The online version of the slides: https://docs.google.com/presentation/d/1kw0jEt
 * Pulling: https://git-scm.com/docs/git-pull
 * Pushing: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
 
-# Git Quick Start Guide https://github.com/AtotheY/RUSiliconGit.git
+# Git Quick Start Guide http://rogerdudler.github.io/git-guide/
 # Other resources
 
 * SIGN UP FOR A GITHUB STUDENT GIFT PACKAGE HERE!!! https://education.github.com/pack
